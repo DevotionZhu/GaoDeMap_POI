@@ -144,7 +144,7 @@ def getpoi_page(cityname, keywords, page):
 
 
 # TODO 替换为上面申请的密钥
-amap_web_key = '64ff876103b10759c2f2db346ce31ab1'
+amap_web_key = 'your api key'
 poi_search_url = "http://restapi.amap.com/v3/place/text"
 poi_boundary_url = "https://ditu.amap.com/detail/get/detail"
 # from transCoordinateSystem import gcj02_to_wgs84
